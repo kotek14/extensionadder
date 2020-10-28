@@ -9,7 +9,7 @@ They got renamed to numbers 1 through 150 without keeping their extensions.
 I could have spent 20 minutes renaming them one by one, but I decided to spend 2 hours to write this, since I didn't find anything with this functionality.
 
 ### Good things to know
-+ I have no idea which extensions YOU need. If you need something - feel free to look up the mime type and add a mime:extension pair in the dictionary. How? Same as everything else, just use your brain. Just a bit.
++ I have no idea which extensions you personally need. If you need something - feel free to look up the mime type and add a mime:extension pair in the dictionary. 
 + This tool doesn't touch any files with extensions.
 
 ### Dependencies
